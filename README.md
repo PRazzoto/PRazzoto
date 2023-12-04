@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Patrick!
-I'm currently studying Computer Engineering at UTFPR - Brazil
+I'm currently studying Computer Engineering at UTFPR - Brazil.
 Here is where I will upload my academic work, as well as some personal projects.
 
 ### Languages and Tools
